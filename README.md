@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the Better eXperience Project
 
-You can use the [editor on GitHub](https://github.com/eliasall/BetterX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+BetterX is a research project from the University of Central Lancashire partly sponsored by Amazon Web Services.  The aim of BetterX is to explore ways to measure, model and enhance the Quality of Experience (QoE) of mobile web users in a practical manner applicable to real-world settings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first phase of BetterX is to collect live mobile user data and construct a predictive model which quantifies (or scores) the user-perceived experience of mobile web browsing sessions.  For that, three components were developed, the BetterX Android Application, the BetterX Cloud Setup and the BetterX Firefox Addon.
 
-### Markdown
+The BetterX Android app collects anonymous information about the mobile device, the network, the connection, and sensor readings from the user's surrounding environment.  The BetterX Firefox addon collects anonymous web browsing information and the BetterX Cloud is used as the processing hub of all the information that is collected and produces the Mobile Web Quality of Experience (MWQoE) model and the MWQoE metric on a 1-5 scale.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first phase of BetterX has been completed and a proof-of-concept implementation of a Mobile-to-Cloud system which measures, predicts and attempts to enhance the Mobile Web Quality of Experience has been developed.  Moreover, the first version of the MWQoE model has been generated based on a live data collection from all over the world.  The MWQoE model has also been evaluated and benchmarked against actual user responses from a lab experiment in which selected web sessions which were observed in the live dataset have been simulated in a lab environment.
 
-```markdown
-Syntax highlighted code block
+The BetterX project shows that the Mobile Web Quality of Experience evaluation and prediction in using a non-intrusive approach is possible and that the MWQoE model can be used in real-world scenarios to characterize the user’s satisfiability in mobile web browsing.
 
-# Header 1
-## Header 2
-### Header 3
+Currently, the second phase of BetterX is being planned to implement enhancements on the generated model and improve accuracy.
 
-- Bulleted
-- List
+Anyone interested in this project can download/modify/contribute to the source code that is made available and also use/analyze the published datasets given that proper attribution is given.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eliasall/BetterX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Publications and more information about BetterX will be posted here soon.
