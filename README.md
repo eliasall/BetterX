@@ -47,7 +47,19 @@ Josephina Antoniou [JAntoniou [at] uclan.ac.uk](mailto:JAntoniou [~at~] uclan.ac
 ### Next Steps
 Currently, the second phase of BetterX is being planned to implement enhancements on the generated model and improve accuracy.
 
-Anyone interested in this project can download/modify/contribute to the source code that is made available and also use/analyze the published datasets.  The BetterX project is licenced under the Apache License, Version 2.0
+Anyone interested in this project can download/modify/contribute to the source code that is made available and also use/analyze the published datasets.
+
+### Referencing
+Usage of any parts of this software or data requires referencing in any published or publicised work. The correct referencing is presented below in Harvard, MLA8 and APA styles.
+ 
+Harvard
+`Allayiotis, E. (2017) BetterX System. N.A: BetterX.org.`
+ 
+MLA8
+`Allayiotis, Elias. “BetterX System.” 23 Feb. 2017, www.betterx.org.`
+ 
+APA
+`Allayiotis, E. (2017). BetterX System (Version 1.2). [Application software]. Retrieved from <http://betterx.org/>`
 
 ### License
 _Copyright 2017 Elias Allayiotis_
