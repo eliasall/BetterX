@@ -50,6 +50,7 @@ Currently, the second phase of BetterX is being planned to implement enhancement
 
 Anyone interested in this project can download/modify/contribute to the source code that is made available and also use/analyze the published datasets.  The BetterX project is licenced under the Apache License, Version 2.0
 
+### License
 _Copyright 2017 Elias Allayiotis_
 
 _Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0_
