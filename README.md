@@ -39,7 +39,7 @@ The BetterX project shows that the Mobile Web Quality of Experience evaluation a
 
 _Publications and more information about BetterX will be posted here soon._
 
-### Contact Team
+### Contact
 Elias Allayiotis [EAllayiotis [at] uclan.ac.uk](mailto:EAllayiotis [~at~] uclan.ac.uk)
 
 Josephina Antoniou [JAntoniou [at] uclan.ac.uk](mailto:JAntoniou [~at~] uclan.ac.uk)
