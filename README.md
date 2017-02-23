@@ -17,7 +17,7 @@ The first phase of BetterX is to collect live mobile user data and construct a p
 
 The first phase of BetterX has been completed and a proof-of-concept implementation of a Mobile-to-Cloud system which measures, predicts and attempts to enhance the Mobile Web Quality of Experience has been developed.  Moreover, the first version of the MWQoE model has been generated based on a live data collection ([BetterX Dataset](https://github.com/eliasall/BetterX-Dataset)) from all over the world.  The MWQoE model has been evaluated and benchmarked against actual user responses from a lab experiment in which selected web sessions which were observed in the live dataset have been simulated in a lab environment.
 
-### Phase A Stats
+### Phase 1 Stats
 ![Image](phase1-map.png)
 
 Stat | Records
@@ -27,7 +27,7 @@ HTTP Requests Measured | 58515
 Domains | 165
 Total Readings | 1,371,500
 
-## The MWQoE Model
+### The MWQoE Model
 
 Stat | Records
 ------------ | -------------
