@@ -37,13 +37,7 @@ Location Types | 7
 
 The BetterX project shows that the Mobile Web Quality of Experience evaluation and prediction in using a non-intrusive approach is possible and that the MWQoE model can be used in real-world scenarios to characterize the user’s satisfiability in mobile web browsing.
 
-Publications and more information about BetterX will be posted here soon.
-
-### Next Steps
-Currently, the second phase of BetterX is being planned to implement enhancements on the generated model and improve accuracy.
-
-Anyone interested in this project can download/modify/contribute to the source code that is made available and also use/analyze the published datasets given that proper attribution is given.
-
+_Publications and more information about BetterX will be posted here soon._
 
 ### Contact Team
 Name | Email
@@ -51,3 +45,13 @@ Name | Email
 Elias Allayiotis | [EAllayiotis [at] uclan.ac.uk](mailto:EAllayiotis [~at~] uclan.ac.uk) 
 Josephina Antoniou | [JAntoniou [at] uclan.ac.uk](mailto:JAntoniou [~at~] uclan.ac.uk)
 
+### Next Steps
+Currently, the second phase of BetterX is being planned to implement enhancements on the generated model and improve accuracy.
+
+Anyone interested in this project can download/modify/contribute to the source code that is made available and also use/analyze the published datasets.  The BetterX project is licenced under the Apache License, Version 2.0
+
+_Copyright 2017 Elias Allayiotis_
+
+_Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0_
+
+_Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License._
